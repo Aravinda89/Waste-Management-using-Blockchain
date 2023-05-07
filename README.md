@@ -8,7 +8,13 @@ Traditional Waste Management:
     The current recycling program has no incentives for participants.
     
     <img src="./imgs/1.png">
-    
+    <img
+    src=“/imgs/1.png”
+    raw=true
+    alt=“Subject Pronouns”
+    style=“margin-right: 10px;”
+    />
+
 Decentralized Waste Management Using Blockchain:
 
     A decentralized peer-to-peer network connects all parties, removing the unnecessary interference of middlemen.
