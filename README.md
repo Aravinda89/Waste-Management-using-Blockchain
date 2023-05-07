@@ -1,4 +1,4 @@
-# Waste-Management-using-Blockchain
+# Waste Management using Blockchain
 Research on How Blockchain Technology Can be Applied in Waste Management
 
 Traditional Waste Management:
