@@ -9,7 +9,7 @@ Traditional Waste Management:
     
     <img src="./imgs/1.png">
     <img
-    src=“/imgs/1.png”
+    src=“./imgs/1.png”
     raw=true
     alt=“Subject Pronouns”
     style=“margin-right: 10px;”
