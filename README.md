@@ -7,13 +7,8 @@ Traditional Waste Management:
     It is difficult to track due to the high volume of waste and the variety of processes used.
     The current recycling program has no incentives for participants.
     
-    <img src="https://github.com/Aravinda89/Waste-Management-using-Blockchain/blob/main/imgs/1.png">
-    <img
-    src=“https://github.com/Aravinda89/Waste-Management-using-Blockchain/blob/main/imgs/1.png”
-    raw=true
-    alt=“Subject Pronouns”
-    style=“margin-right: 10px;”
-    />
+<img width="309" alt="1" src="https://user-images.githubusercontent.com/31471559/236680602-97479e20-cac1-4837-936b-b8a03745770d.png">
+
 
 Decentralized Waste Management Using Blockchain:
 
