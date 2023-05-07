@@ -19,3 +19,5 @@ What are the benefits?
     Accountability of all parties involved.
     Empowerment of waste management communities.
     Reduction of logistic costs and manual handling.
+    
+    
