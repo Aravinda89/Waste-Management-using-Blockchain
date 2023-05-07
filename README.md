@@ -23,4 +23,6 @@ What are the benefits?
     Empowerment of waste management communities.
     Reduction of logistic costs and manual handling.
     
+<img width="1099" alt="3" src="https://user-images.githubusercontent.com/31471559/236680686-0029c32a-2d7d-44bc-8117-63ac6d989dae.png">
 
+<img width="1039" alt="4" src="https://user-images.githubusercontent.com/31471559/236680708-e696540a-1383-4d22-88c4-092cdb5b3a2e.png">
