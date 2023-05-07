@@ -8,3 +8,14 @@ Traditional Waste Management:
     The current recycling program has no incentives for participants.
     
     
+Decentralized Waste Management Using Blockchain:
+
+    A decentralized peer-to-peer network connects all parties, removing the unnecessary interference of middlemen.
+    
+    
+What are the benefits?
+    Real-time tracking of the amount of material recycled, costs, profits, from generation to disposal, promoting transparency.
+    Evaluation of the impact of each participant.
+    Accountability of all parties involved.
+    Empowerment of waste management communities.
+    Reduction of logistic costs and manual handling.
